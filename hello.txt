@@ -1,2 +1,2 @@
-print("my favourite color is white")
+print("my favourite color is red")
 print("Hello World")
